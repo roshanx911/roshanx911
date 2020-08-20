@@ -59,13 +59,11 @@ Here are some ideas to get you started:
 - [Bootstrap Contact Form with PHP and MySQL](https://roshanx911.github.io/blog/2020/08/09/bootstrap-contact-form-php-and-mysql.html)
 - [CRUD Admin-Panel with Bootstrap, PHP & MySQL](https://roshanx911.github.io/blog/2020/08/14/crud-admin-panel-part-1.html)
 
-➡️ [More Blog Posts...](https://roshanx911.github.io/)
+- ➡️ [Read More Blog Posts...](https://roshanx911.github.io/)
 
 <br />
 
 ***
-
-
 
 [website]: https://roshanx911.github.io/
 [facebook]: https://www.facebook.com/roshanx911/
@@ -73,5 +71,4 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/roshanx911/
 [stackoverflow]: https://stackoverflow.com/users/14033303/roshanx911/
 [github]: https://github.com/roshanx911/
-[Email]: roshanx911@gmail.com
 
