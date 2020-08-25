@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - I’m Currently Working On [CRUD Admin-Panel with LAMP Stack][website]
 - I’m Currently Mastering/Expertise WooCommerce, SEO & Google Analytics..
-- I’m Looking To Collaborate With Other E-Commerce Web Developers..
+- I’m Looking To Collaborate With Other E-Commerce Web Developers...
 - Goals: Contribute More To Open Source Projects..
 
 <br />
