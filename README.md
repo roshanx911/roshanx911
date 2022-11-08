@@ -5,7 +5,9 @@ Here are some ideas to get you started:
 -->
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-### Hi there, I am Roshan Perera&nbsp;&raquo;&nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?label=roshanx911.github.io&style=for-the-badge&url=https%3A%2F%2Froshanx911.github.io)](https://roshanx911.github.io/)
+[![Website](https://img.shields.io/website?label=roshanx911.github.io&style=for-the-badge&url=https%3A%2F%2Froshanx911.github.io)](https://roshanx911.github.io/)
+### Hi there, I am Roshan Perera&nbsp;&raquo;
+
 
 ### Computer Enthusiast, Programmer & Web Developer!
 
