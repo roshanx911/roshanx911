@@ -3,11 +3,9 @@
 👋
 Here are some ideas to get you started:
 -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-### Hi there, I am [Roshan Perera][website]&nbsp;&raquo; 
-
-[![Website](https://img.shields.io/website?label=roshanx911.github.io&style=for-the-badge&url=https%3A%2F%2Froshanx911.github.io)](https://roshanx911.github.io/)
+### Hi there, I am Roshan Perera&nbsp;&raquo;&nbsp;&nbsp;&nbsp;[![Website](https://img.shields.io/website?label=roshanx911.github.io&style=for-the-badge&url=https%3A%2F%2Froshanx911.github.io)](https://roshanx911.github.io/)
 
 ### Computer Enthusiast, Programmer & Web Developer!
 
@@ -57,12 +55,11 @@ Here are some ideas to get you started:
 
 ***
 
-### Latest Blog Posts
+### Recent Blog Posts
 
 - [Customizable Advance Form Validation](https://roshanx911.github.io/blog/2022/11/07/customizable-advance-form-validation.html)
 - [Bootstrap Contact Form with PHP and MySQL](https://roshanx911.github.io/blog/2022/11/02/bootstrap-contact-form-php-and-mysql.html)
 - [CRUD Admin-Panel with Bootstrap, PHP & MySQL](https://roshanx911.github.io/blog/2022/10/19/crud-admin-panel-part-6.html)
-####  [Read More Blog Posts...]&nbsp;&raquo;(https://roshanx911.github.io/)
 
 <br />
 
