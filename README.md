@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 > ### Computer Enthusiast, Programmer & Web Developer!
 
-> Goals: Contribute More To Open Source Projects...
-> I’m Looking To Collaborate With Other Full Stack Web Developers...
-> Fun-Fact: The first rule of programming - if it works, don’t touch it...
+> Goals: Contribute More To Open Source Projects...<br />
+> I’m Looking To Collaborate With Other Full Stack Web Developers...<br />
+> Fun-Fact: The first rule of programming - if it works, don’t touch it...<br />
 > Life-Quote: Life has two rules: #1 Never quit #2 Always remember rule #1...
 
 ***
@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 > ### Recent Blog Posts
 
-- [Customizable Advance Form Validation](https://roshanx911.github.io/blog/2022/11/07/customizable-advance-form-validation.html)
-- [Bootstrap Contact Form with PHP and MySQL](https://roshanx911.github.io/blog/2022/11/02/bootstrap-contact-form-php-and-mysql.html)
-- [CRUD Admin-Panel with Bootstrap, PHP & MySQL](https://roshanx911.github.io/blog/2022/10/19/crud-admin-panel-part-6.html)
+> [Customizable Advance Form Validation](https://roshanx911.github.io/blog/2022/11/07/customizable-advance-form-validation.html)<br />
+> [Bootstrap Contact Form with PHP and MySQL](https://roshanx911.github.io/blog/2022/11/02/bootstrap-contact-form-php-and-mysql.html)<br />
+> [CRUD Admin-Panel with Bootstrap, PHP & MySQL](https://roshanx911.github.io/blog/2022/10/19/crud-admin-panel-part-6.html)
 
 ***
 
