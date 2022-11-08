@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 > Goals: Contribute More To Open Source Projects...<br />
 > I’m Looking To Collaborate With Other Full Stack Web Developers...<br />
-> Fun-Fact: The first rule of programming - if it works, don’t touch it...<br />
-> Life-Quote: Life has two rules: #1 Never quit #2 Always remember rule #1...
+> Fun-Fact: The First Rule Of Programming - If It Works, Don’t Touch It...<br />
+> Life-Quote: Life Has Two Rules: #1 Never Quit #2 Always Remember Rule #1...
 
 ***
 
