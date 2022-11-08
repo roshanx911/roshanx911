@@ -6,19 +6,19 @@ Here are some ideas to get you started:
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 [![Website](https://img.shields.io/website?label=roshanx911.github.io&style=for-the-badge&url=https%3A%2F%2Froshanx911.github.io)](https://roshanx911.github.io/)
-### Hi there, I am Roshan Perera&nbsp;&raquo;
+> ### Hi there, I am Roshan Perera&nbsp;&raquo;
 
 
-### Computer Enthusiast, Programmer & Web Developer!
+> ### Computer Enthusiast, Programmer & Web Developer!
 
-- Goals: Contribute More To Open Source Projects...
-- I’m Looking To Collaborate With Other Full Stack Web Developers...
-- Fun-Fact: The first rule of programming - if it works, don’t touch it...
-- Life-Quote: Life has two rules: #1 Never quit #2 Always remember rule #1...
+> Goals: Contribute More To Open Source Projects...
+> I’m Looking To Collaborate With Other Full Stack Web Developers...
+> Fun-Fact: The first rule of programming - if it works, don’t touch it...
+> Life-Quote: Life has two rules: #1 Never quit #2 Always remember rule #1...
 
 ***
 
-### Connect with Me:
+> ### Connect with Me:
 
 [<img align="left" alt="roshanx911.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="roshanx911 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ***
 
-### Languages & Tools:
+> ### Languages & Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ***
 
-### Recent Blog Posts
+> ### Recent Blog Posts
 
 - [Customizable Advance Form Validation](https://roshanx911.github.io/blog/2022/11/07/customizable-advance-form-validation.html)
 - [Bootstrap Contact Form with PHP and MySQL](https://roshanx911.github.io/blog/2022/11/02/bootstrap-contact-form-php-and-mysql.html)
