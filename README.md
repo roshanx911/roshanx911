@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - Fun-Fact: The first rule of programming - if it works, don’t touch it...
 - Life-Quote: Life has two rules: #1 Never quit #2 Always remember rule #1...
 
-<br />
-
 ***
 
 ### Connect with Me:
@@ -26,8 +24,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="roshanx911 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="roshanx911 | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="roshanx911 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-<br />
 
 ***
 
@@ -51,8 +47,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<br />
-
 ***
 
 ### Recent Blog Posts
@@ -60,8 +54,6 @@ Here are some ideas to get you started:
 - [Customizable Advance Form Validation](https://roshanx911.github.io/blog/2022/11/07/customizable-advance-form-validation.html)
 - [Bootstrap Contact Form with PHP and MySQL](https://roshanx911.github.io/blog/2022/11/02/bootstrap-contact-form-php-and-mysql.html)
 - [CRUD Admin-Panel with Bootstrap, PHP & MySQL](https://roshanx911.github.io/blog/2022/10/19/crud-admin-panel-part-6.html)
-
-<br />
 
 ***
 
