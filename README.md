@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 ![Matrix SVG](https://raw.githubusercontent.com/roshanx911/roshanx911/master/matrix.svg)
 
-![Count](https://img.shields.io/static/v1?label=Visitor-Count&message=Down&style=for-the-badge)
+![Count](https://img.shields.io/v1?label=Visitor-Count&message=Down&style=for-the-badge)
 
 ![Count SVG](https://raw.githubusercontent.com/roshanx911/roshanx911/master/count.svg)
 
