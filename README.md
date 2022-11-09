@@ -3,9 +3,12 @@
 👋
 Here are some ideas to get you started:
 -->
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+![Matrix SVG](https://raw.githubusercontent.com/roshanx911/roshanx911/master/matrix.svg)
+
+![Count SVG](https://raw.githubusercontent.com/roshanx911/roshanx911/master/count.svg)
 
 [![Website](https://img.shields.io/website?label=roshanx911.github.io&style=for-the-badge&url=https%3A%2F%2Froshanx911.github.io)](https://roshanx911.github.io/)
+
 > ### Hi there, I am Roshan Perera&nbsp;&raquo;
 
 
