@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 > ### Hi there, I am Roshan Perera&nbsp;&raquo;
 
-
 > ### Computer Enthusiast, Programmer & Web Developer!
 
 > Goals: Contribute More To Open Source Projects...<br />
