@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="roshanx911 | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="roshanx911 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] [![Animation3](https://raw.githubusercontent.com/roshanx911/roshanx911/master/animation-3-dots-rotate.svg)](https://github.com/roshanx911/)
 
-<br />
-
 ***
 
 > ### Languages & Tools:
