@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 [![Count SVG](https://raw.githubusercontent.com/roshanx911/roshanx911/master/count.svg)](https://github.com/roshanx911)
 
-[![Website](https://img.shields.io/website?label=roshanx911.github.io&style=for-the-badge&url=https%3A%2F%2Froshanx911.github.io)](https://roshanx911.github.io/)
+[![Website](https://img.shields.io/website?label=roshanx911.github.io&style=for-the-badge&url=https%3A%2F%2Froshanx911.github.io)](https://roshanx911.github.io/) [![Animation1](https://raw.githubusercontent.com/roshanx911/roshanx911/master/animation-3-dots-rotate.svg)](https://github.com/roshanx911/)
 
 > ### Hi there, I am Roshan Perera&nbsp;&raquo;
 
