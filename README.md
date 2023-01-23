@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 [![Matrix SVG](https://raw.githubusercontent.com/roshanx911/roshanx911/master/matrix.svg)](https://github.com/roshanx911)
 
-[![Count](https://img.shields.io/static/v1?label=Visitor-Count&message=Down&style=for-the-badge)](https://github.com/roshanx911) [![Animation1](https://github.com/roshanx911/roshanx911/blob/master/animation-2.svg)](https://github.com/roshanx911/) [![Count SVG](https://raw.githubusercontent.com/roshanx911/roshanx911/master/count.svg)](https://github.com/roshanx911) [![Animation2](https://github.com/roshanx911/roshanx911/blob/master/animation-2.svg)](https://github.com/roshanx911/) [![Website](https://img.shields.io/website?label=roshanx911.github.io&style=for-the-badge&url=https%3A%2F%2Froshanx911.github.io)](https://roshanx911.github.io/)
+[![Count](https://img.shields.io/static/v1?label=Visitor-Count&message=Down&style=for-the-badge)](https://github.com/roshanx911) [![Animation1](https://github.com/roshanx911/roshanx911/blob/master/animation-2.svg)](https://github.com/roshanx911/) [![Count SVG](https://raw.githubusercontent.com/roshanx911/roshanx911/master/count.svg)](https://github.com/roshanx911)[![Animation2](https://github.com/roshanx911/roshanx911/blob/master/animation-2.svg)](https://github.com/roshanx911/) [![Website](https://img.shields.io/website?label=roshanx911.github.io&style=for-the-badge&url=https%3A%2F%2Froshanx911.github.io)](https://roshanx911.github.io/)
 
 > ### Hi there, I am Roshan Perera&nbsp;&raquo;
 
