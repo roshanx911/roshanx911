@@ -20,6 +20,7 @@ Here are some ideas to get you started:RoshanX911
 
 > ### Connect with Me:
 [<img align="left" alt="roshanx911.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sites.google.com/view/roshanx911" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][google]
 [<img align="left" alt="roshanx911 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="roshanx911 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="roshanx911 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -64,6 +65,7 @@ Here are some ideas to get you started:RoshanX911
 ***
 
 [website]: https://roshanx911.github.io/
+[google]: https://sites.google.com/view/roshanx911
 [facebook]: https://www.facebook.com/roshanx911/
 [twitter]: https://twitter.com/roshanx911/
 [linkedin]: https://www.linkedin.com/in/roshanx911/
