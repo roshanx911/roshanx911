@@ -12,7 +12,7 @@ Here are some ideas to get you started:RoshanX911
 > ### Computer Enthusiast, Programmer & Full Stack Developer!
 
 > Goals: Contribute More To Open Source Projects...<br />
-> I’m Looking To Collaborate With Other Full Stack Web Developers...<br />
+> I’m Looking To Collaborate With Other Full Stack Developers...<br />
 > Fun-Fact: The First Rule Of Programming - If It Works, Don’t Touch It...<br />
 > Life-Quote: Life Has Two Rules: #1 Never Quit #2 Always Remember Rule #1...
 
