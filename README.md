@@ -7,9 +7,9 @@ Here are some ideas to get you started:RoshanX911
 
 [![Website](https://img.shields.io/website?label=roshanx911.github.io&style=for-the-badge&url=https%3A%2F%2Froshanx911.github.io)](https://roshanx911.github.io/) [![Count](https://img.shields.io/static/v1?label=Visitor-Count&message=Down&style=for-the-badge)](https://github.com/roshanx911) [![Count SVG](https://raw.githubusercontent.com/roshanx911/roshanx911/master/count.svg)](https://github.com/roshanx911) 
 
-> ### Hi there, I am Roshan Perera&nbsp;&raquo;
+> ### Hi there, I am Roshan Weerakkodi&nbsp;&raquo;
 
-> ### Computer Enthusiast, Programmer & Web Developer!
+> ### Computer Enthusiast, Programmer & Full Stack Developer!
 
 > Goals: Contribute More To Open Source Projects...<br />
 > I’m Looking To Collaborate With Other Full Stack Web Developers...<br />
